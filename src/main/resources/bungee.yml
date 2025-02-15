@@ -1,0 +1,13 @@
+name: BungeeVoteMonthly
+main: Puk3p.bungeevotemonthly.BungeeVoteMonthly
+version: 1.0
+author: Puk3p
+description: Un plugin de vot lunar pentru BungeeCord
+commands:
+  topvotes:
+    description: Afișează topul votanților lunari
+    usage: /topvotes
+    aliases: [votetop]
+  sendvotes:
+    description: Trimite lista votanților pe Discord
+    usage: /sendvotes

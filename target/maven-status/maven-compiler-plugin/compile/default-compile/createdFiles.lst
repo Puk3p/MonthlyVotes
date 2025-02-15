@@ -1,0 +1,9 @@
+Puk3p\bungeevotemonthly\manager\VoteManager$2.class
+Puk3p\bungeevotemonthly\commands\TopVotesCommand.class
+Puk3p\bungeevotemonthly\discord\DiscordNotifier.class
+Puk3p\bungeevotemonthly\manager\VoteManager.class
+Puk3p\bungeevotemonthly\util\VoteData.class
+Puk3p\bungeevotemonthly\BungeeVoteMonthly.class
+Puk3p\bungeevotemonthly\listener\VoteListener.class
+Puk3p\bungeevotemonthly\manager\VoteManager$1.class
+Puk3p\bungeevotemonthly\commands\SendVotesToDiscordCommand.class
